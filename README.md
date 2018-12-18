@@ -32,21 +32,21 @@ Android使用最广泛的图片加载框架。
 
 ### 数据库
 
-* [GreenDao]（正在进行中）
+* [GreenDao]()(正在进行中~)
 
 Android中数据库操作综合效率最高的框架。
 
 
 ### 响应式编程
 
-* [RxJava]
+* [RxJava]()
 
 来一起探究RxJava的异步、简洁、优雅和它强大的操作符吧！
 
 
 ### 内存泄露
 
-* [LeakCanary]
+* [LeakCanary]()
 
 LeakCanary究竟是如何检测出内存泄露的呢？
 
@@ -54,11 +54,11 @@ LeakCanary究竟是如何检测出内存泄露的呢？
 
 ### 依赖注入
 
-* [ButterKnife]
+* [ButterKnife]()
 
 使用APT + 注解攻破了findViewByid()，JW大神之作。
 
-* [Dagger2]
+* [Dagger2]()
 
 Dagger就一把匕首，在中大型项目中，它能提升开发效率、自动管理类的实例、解耦，是如此的干脆。
 
@@ -67,7 +67,7 @@ Dagger就一把匕首，在中大型项目中，它能提升开发效率、自�
 
 ### 事件总线
 
-* [EventBus]
+* [EventBus]()
 
 
 使用扩展的观察者模式实现的组件间通信框架，广播的替代者。
