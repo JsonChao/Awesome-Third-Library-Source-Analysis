@@ -1,5 +1,5 @@
 # Awesome-Third-Library-Source-Analysis
-Deep understanding of popular open source library source code~
+Deep understanding of popular open source library source code
 <div align="center">
 <img src="https://raw.githubusercontent.com/JsonChao/Awesome-Third-Library-Source-Analysis/master/ScreenShots/Android_hot_third_source_analysis.png">
 </div>
