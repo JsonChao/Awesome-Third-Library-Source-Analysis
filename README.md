@@ -54,11 +54,11 @@ LeakCanary究竟是如何检测出内存泄露的呢？
 
 ### 依赖注入
 
-* [ButterKnife]()（进行中~）
+* [ButterKnife](https://jsonchao.github.io/2019/01/13/Android%E4%B8%BB%E6%B5%81%E4%B8%89%E6%96%B9%E5%BA%93%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%EF%BC%88%E4%B8%83%E3%80%81%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3ButterKnife%E6%BA%90%E7%A0%81%EF%BC%89/)（已完成）
 
 使用APT + 注解攻破了findViewByid()，JW大神之作。
 
-* [Dagger2]()
+* [Dagger2]()（进行中~）
 
 Dagger就一把匕首，在中大型项目中，它能提升开发效率、自动管理类的实例、解耦，是如此的干脆。
 
