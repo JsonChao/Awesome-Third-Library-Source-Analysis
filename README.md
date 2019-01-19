@@ -4,7 +4,7 @@ Deep understanding of popular open source library source code
 <img src="https://raw.githubusercontent.com/JsonChao/Awesome-Third-Library-Source-Analysis/master/ScreenShots/Android_hot_third_source_analysis.png">
 </div>
 
-> 深入理解热门三方库源码，从七个角度全方位提升你的功力~
+> 深入理解热门三方库实现原理，从七个角度全方位提升你的功力~
 
 ## 前言
 
