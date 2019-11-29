@@ -73,6 +73,35 @@ Dagger就一把匕首，在中大型项目中，它能提升开发效率、自�
 使用扩展的观察者模式实现的组件间通信框架，广播的替代者。
 
 
+## 赞赏
+
+如果这个库对您有很大帮助，您愿意支持这个项目的进一步开发和这个项目的持续维护。你可以扫描下面的二维码，让我喝一杯咖啡或啤酒。非常感谢您的捐赠。谢谢！
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/JsonChao/Awesome-Android-Interview/master/screenshot/wexin_play.jpg" width=20%><img src="https://raw.githubusercontent.com/JsonChao/Awesome-Android-Interview/master/screenshot/Apaliy.jpg" width=20%>
+</div>
+
+
+----
+
+## Contanct Me
+
+###  ●  微信：
+
+> 欢迎关注我的微信：`bcce5360`  
+
+###  ●  微信群：
+
+> **微信群如果不能扫码加入，麻烦大家想进微信群的朋友们，加我微信拉你进群。**
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/JsonChao/Awesome-Android-Interview/master/screenshot/wexin_qrcode.jpg" width=35%>
+</div>
+        
+
+###  ●  QQ群：
+
+> 2千人QQ群，**Awesome-Android学习交流群，QQ群号：959936182**， 欢迎大家加入~
 
 
 ### About me
