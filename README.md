@@ -8,7 +8,7 @@ Deep understanding of popular open source library source code
 
 ## 前言
 
-众所周知，优秀源码的阅读与理解是最能提升自身功力的途径，如果想要成为一名优秀的Android工程师，那么Android优秀三方库源码的分析和理解则是必备技能。因此，为了将知识**成体系**地聚合起来，笔者创建了Awesome-Third-Library-Source-Analysis这个项目，为的就是让每一个Android工程师能够从以下**七方面全方位地提升自己**。
+众所周知，优秀源码的阅读与理解是最能提升自身功力的途径，如果想要成为一名优秀的Android工程师，那么Android中优秀三方库源码的分析和理解则是必备技能。因此，为了将知识**成体系**地聚合起来，笔者创建了Awesome-Third-Library-Source-Analysis这个项目，为的就是让每一个Android工程师能够从以下**七方面全方位地提升自己**。
 
 ## Contents
 
